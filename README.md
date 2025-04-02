@@ -10,10 +10,10 @@ Besoins :
 Cette compagnie aérienne a donc besoin de rassembler tous ces vols en service.  
 Chaque vol regroupe :  
 - « Données » de vol (date vol, heure départ/arrivée vol, type avion,…)
--Aéroport (code OACI, code IATA)
--Paramètres de vol (nom para, type de données (DFDR, CVR, compute), phase de vol (taxi, take-off, cruise, approach, landing),...)
--Météorologie pendant le vol
--Trajectoire du vol (coordonnée google earth)  
+- Aéroport (code OACI, code IATA)
+- Paramètres de vol (nom para, type de données (DFDR, CVR, compute), phase de vol (taxi, take-off, cruise, approach, landing),...)
+- Météorologie pendant le vol
+- Trajectoire du vol (coordonnée google earth)  
 Livrable :
 Voir grille d'évaluation
 
